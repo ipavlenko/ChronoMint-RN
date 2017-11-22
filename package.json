@@ -4,6 +4,7 @@
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "test": "jest",
+    "avd": "cd ~/Android/Sdk/tools && ./emulator -avd Nexus_5_API_23",
     "ios": "react-native run-ios --simulator 'iPhone SE'",
     "android": "react-native run-android",
     "storybook": "storybook start -p 7007"
