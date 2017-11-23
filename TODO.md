@@ -1,0 +1,11 @@
+- [ ] 1. Alternative implementation for I18n
+- [ ] 2. ImageProvider for pluggable icons in models
+- [ ] 3. Re-invent ErrorList
+- [ ] 4. Rename config folder to constants and refactor usages
+- [ ] 5. Move all '\*-local' folders to 'platform' folder
+- [ ] 6. Reinvent LocalStorage for RN app
+- [ ] 7. Remove localstorage dep from MainWalletModel
+- [ ] 8. Reinvent LocalStorage for RN app
+- [ ] 9. Deal with redux/ui/ipfs
+- [ ] 10. Deal with redux/ui/locale
+- [ ] 11. Deal with showConfirmTxModal (and remove redux/ui/modal)
